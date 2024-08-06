@@ -4,7 +4,7 @@
 ***Credits***
 This project was developed by Roja Vaishnavi.
 
-This was project a fun project created based a scene in Harry Potter Fictional Series.
+This was a fun project created based a scene in Harry Potter Fictional Series.
 The project demonstrates an "Invisibility Cloak" effect using computer vision techniques with OpenCV. The program captures a background frame and then replaces the black color in subsequent video frames with the background, creating the illusion of invisibility.
 
 ***Installation***
